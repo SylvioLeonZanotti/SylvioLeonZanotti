@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://www.discord.gg/USERNAME" alt="Discord" target="_blank">
-  <img src="https://img.shields.io/badge/-Discord-DF0174?style=for-the-badge&labelColor=DF0174&logo=discord&logoColor=white&link=https://www.discord.gg/osylviozanotti">
+  <img src="https://img.shields.io/badge/-Discord-DF0174?style=for-the-badge&labelColor=#039eff&logo=discord&logoColor=white&link=https://www.discord.gg/osylviozanotti">
 </a>
