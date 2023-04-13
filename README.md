@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://www.instagram.com/osylviozanotti" alt="Instagram" target="_blank">
+<a href="https://www.instagram.com/USERNAME" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/osylviozanotti">
+</a>
+
+<a href="https://www.discord.gg/USERNAME" alt="Discord" target="_blank">
+  <img src="https://img.shields.io/badge/-Discord-DF0174?style=for-the-badge&labelColor=DF0174&logo=discord&logoColor=white&link=https://www.discord.gg/osylviozanotti">
 </a>
