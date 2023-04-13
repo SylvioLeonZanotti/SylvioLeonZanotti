@@ -18,6 +18,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/osylviozanotti">
 </a>
 
-<a href="https://www.discord.gg/USERNAME" alt="Discord" target="_blank">
-  <img src="https://img.shields.io/badge/-Discord-00ccff?style=for-the-badge&labelColor=00ccff&logo=discord&logoColor=white&link=https://www.discord.gg/osylviozanotti">
+<a href="https://www.discord.gg/dSk5sbYu7N" alt="Discord" target="_blank">
+  <img src="https://img.shields.io/badge/-Discord-00ccff?style=for-the-badge&labelColor=00ccff&logo=discord&logoColor=white&link=https://www.discord.gg/dSk5sbYu7N">
 </a>
