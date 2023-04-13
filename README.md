@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </a>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg](https://icons8.com.br/icon/BLqXKWxRYtaw/lua)">
+  <img align="center" alt="" height="30" width="40" src="https://cdn.discordapp.com/attachments/1034653600389025903/1096166087202181190/icons8-lua-64.png">
  
   
 </div>
