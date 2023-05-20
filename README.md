@@ -24,7 +24,5 @@ Here are some ideas to get you started:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="" height="30" width="40" src="https://cdn.discordapp.com/attachments/1034653600389025903/1108828043151155210/icons8-lua-64.png"> 
-</div>
-<div style="display: inline_block"><br>
   <img align="center" alt="" height="30" width="40" src="https://cdn.discordapp.com/attachments/1034653600389025903/1109538223593623562/icons8-html-48.png"> 
 </div>
