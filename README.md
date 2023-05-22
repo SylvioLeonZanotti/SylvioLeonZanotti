@@ -1,5 +1,6 @@
 ### Olá, me chamo Sylvio e sou desenvolvedor e criador de scripts para FiveM e monto cidades prontas para serem abertas. 👋
 
+Sou de campinas interior de São Paulo e estou me graduando em Análise e Desenvolvimento de Sistemas, também estou fazendo um curso de C# para expandir meu conhecimento para mais linguagens de programamação.
 <!--
 **SylvioLeonZanotti/SylvioLeonZanotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,6 +21,10 @@ Here are some ideas to get you started:
 
 <a href="https://www.discord.gg/dSk5sbYu7N" alt="Discord" target="_blank">
   <img src="https://img.shields.io/badge/-Discord-00ccff?style=for-the-badge&labelColor=00ccff&logo=discord&logoColor=white&link=https://www.discord.gg/dSk5sbYu7N">
+</a>
+
+<a href="www.linkedin.com/in/sylviolzanotti/" alt="Linkedin" target="_blank">
+  <img src="https://cdn.discordapp.com/attachments/1020449361039200266/1110291543450980352/icons8-linkedin-48.png">
 </a>
 
 <div style="display: inline_block"><br>
