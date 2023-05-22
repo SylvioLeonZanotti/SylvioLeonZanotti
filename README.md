@@ -23,11 +23,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Discord-00ccff?style=for-the-badge&labelColor=00ccff&logo=discord&logoColor=white&link=https://www.discord.gg/dSk5sbYu7N">
 </a>
 
-<a href="https://www.linkedin.com/in/sylviolzanotti/" alt="linkedin" target="_blank">
-  <img src="https://img.shields.io/badge/-Linkedin-00ccff?style=for-the-badge&labelColor=00ccff&logo=discord&logoColor=white&link=https://www.linkedin.com/in/sylviolzanotti/>
-</a>
-
-
 <div style="display: inline_block"><br>
   <img align="center" alt="" height="50" width="50" src="https://cdn.discordapp.com/attachments/1034653600389025903/1109539080255066234/icons8-lua-language-64.png">
   <img align="center" alt="" height="40" width="40" src="https://cdn.discordapp.com/attachments/1034653600389025903/1109538223593623562/icons8-html-48.png"> 
