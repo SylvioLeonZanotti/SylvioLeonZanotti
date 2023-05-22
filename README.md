@@ -29,4 +29,5 @@ Here are some ideas to get you started:
   <img align="center" alt="" height="40" width="40" src="https://cdn.discordapp.com/attachments/1034653600389025903/1109538724729081906/icons8-fivem-48.png"> 
   <img align="center" alt="" height="40" width="40" src="https://cdn.discordapp.com/attachments/1020449361039200266/1110319858131947561/icons8-c-afiado-logotipo-48.png"> 
   <img align="center" alt="" height="40" width="40" src="https://cdn.discordapp.com/attachments/1020449361039200266/1110320238932787250/icons8-mysql-48.png"> 
+  <img align="center" alt="" height="40" width="40" src="https://cdn.discordapp.com/attachments/1020449361039200266/1110320418620977152/icons8-fivem-48.png"> 
 </div>
