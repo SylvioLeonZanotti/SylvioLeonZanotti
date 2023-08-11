@@ -29,5 +29,6 @@ Here are some ideas to get you started:
   <img align="center" alt="" height="40" width="40" src="https://cdn.discordapp.com/attachments/1104101049318522961/1139577648918560948/icons8-html-256.png"> 
   <img align="center" alt="" height="40" width="40" src="https://cdn.discordapp.com/attachments/1104101049318522961/1139577851079823380/icons8-fivem-240.png"> 
   <img align="center" alt="" height="40" width="40" src="https://cdn.discordapp.com/attachments/1104101049318522961/1139578083167449128/icons8-mysql-64.png"> 
-  
+  <img align="center" alt="" height="40" width="40" src="https://cdn.discordapp.com/attachments/1104101049318522961/1139581338828161044/icons8-javascript-256.png">  
 </div>
+
