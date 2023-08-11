@@ -1,6 +1,6 @@
 ### Olá, me chamo Sylvio e sou desenvolvedor e criador de scripts para FiveM e monto cidades prontas para serem abertas. 👋
 
-Sou de Sumaré interior de São Paulo e estou me graduando em Análise e Desenvolvimento de Sistemas, também estou fazendo um curso de C# para expandir meu conhecimento para mais linguagens de programamação.
+Sou de Campinas interior de São Paulo e estou me graduando em Análise e Desenvolvimento de Sistemas, também estou fazendo um curso de C++ para expandir meu conhecimento para mais linguagens de programamação.
 <!--
 **SylvioLeonZanotti/SylvioLeonZanotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
