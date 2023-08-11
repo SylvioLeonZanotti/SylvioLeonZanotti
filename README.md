@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </a>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="" height="50" width="50" src="https://cdn.discordapp.com/attachments/1034653600389025903/1109539080255066234/icons8-lua-language-64.png">
+  <img align="center" alt="" height="50" width="50" src="https://cdn.discordapp.com/attachments/1104101049318522961/1139577168821751838/Lua-Logo.svg.png">
   <img align="center" alt="" height="50" width="50" src="https://cdn.discordapp.com/attachments/1024414418177622087/1118204635447037972/icons8-javascript-64.png">
   <img align="center" alt="" height="40" width="40" src="https://cdn.discordapp.com/attachments/1034653600389025903/1109538223593623562/icons8-html-48.png"> 
   <img align="center" alt="" height="40" width="40" src="https://cdn.discordapp.com/attachments/1034653600389025903/1109538724729081906/icons8-fivem-48.png"> 
