@@ -1,6 +1,8 @@
 ### Olá, me chamo Sylvio e sou desenvolvedor. 👋
 
 Sou de Campinas interior de São Paulo e estou me graduando em Análise e Desenvolvimento de Sistemas, estou sempre aprendendo mais para expandir meu conhecimento para mais linguagens de programamação.
+
+Recentemente resolvi postar aqui scripts com código aberto, então sinta-se a vontade para usá-los 😎
 <!--
 **SylvioLeonZanotti/SylvioLeonZanotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
