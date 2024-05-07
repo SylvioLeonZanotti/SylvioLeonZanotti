@@ -1,6 +1,6 @@
-### Olá, me chamo Sylvio e sou desenvolvedor e criador de scripts para FiveM e monto cidades prontas para serem abertas. 👋
+### Olá, me chamo Sylvio e sou desenvolvedor. 👋
 
-Sou de Campinas interior de São Paulo e estou me graduando em Análise e Desenvolvimento de Sistemas, também estou fazendo um curso de C++ para expandir meu conhecimento para mais linguagens de programamação.
+Sou de Campinas interior de São Paulo e estou me graduando em Análise e Desenvolvimento de Sistemas, estou sempre aprendendo mais para expandir meu conhecimento para mais linguagens de programamação.
 <!--
 **SylvioLeonZanotti/SylvioLeonZanotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://www.instagram.com/osylviozanotti" alt="Instagram" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/osylviozanotti">
+  <img src="[https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/osylviozanotti](https://icons8.com.br/icon/32323/instagram)">
 </a>
 
 <a href="https://www.discord.gg/dSk5sbYu7N" alt="Discord" target="_blank">
