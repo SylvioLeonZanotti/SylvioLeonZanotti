@@ -1,4 +1,4 @@
-### Olá, me chamo Sylvio e sou desenvolvedor. 👋
+### Olá, me chamo Sylvio Zanotti 👋
 
 Sou de Campinas interior de São Paulo e estou me graduando em Análise e Desenvolvimento de Sistemas, estou sempre aprendendo mais para expandir meu conhecimento para mais linguagens de programamação.
 
