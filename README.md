@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-- 🔭 Atualmente, estou trabalhando com ** Lua, Python, MySQL e MongoDB **
+- 🔭 Atualmente, estou trabalhando com **Lua, Python, MySQL e MongoDB**
 
 - 🌱 Atualmente estou realizando o **Bootcamp Santander - Fundamentos em IA Para Devs**
 
