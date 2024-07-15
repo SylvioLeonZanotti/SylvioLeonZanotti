@@ -34,7 +34,7 @@
 
 - 📝 Sou dono de uma loja virtual focada em desenvolvimento de scripts utilizando linguagem LUA para plataforma Five M
 
-- 📫 Sinta -se à vontade para me alcançar **sylviorzanotti@gmail.com**
+- 📫 Sinta -se à vontade para me alcançar **leonzanotti96@gmail.com**
 
 - 🏠Não hesite em me deixar um ** 👋 ** no Discord –  [SylvioZanotti](https://discordapp.com/users/957722095381540874) my username!
 <!--Intro end-->
