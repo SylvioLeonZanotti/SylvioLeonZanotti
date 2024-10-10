@@ -28,8 +28,6 @@
 <!--Intro start-->
 - 🔭 Atualmente, estou trabalhando com **Lua, Python, MySQL e MongoDB**
 
-- 🌱 Atualmente estou realizando o **Bootcamp Santander - Fundamentos em IA Para Devs**
-
 - ☁️ Eu tenho grande interesse em computação em nuvem.Então, em breve começarei a estudar **AWS**
 
 - 📫 Sinta -se à vontade para me alcançar **leonzanotti96@gmail.com**
