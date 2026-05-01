@@ -27,7 +27,6 @@ Meu trabalho transita entre orquestração de LLMs, engenharia de dados em GCP e
 ```yaml
 location:    Campinas/SP, Brasil
 role:        Engenheiro de IA & Back-end Developer
-company:     Areco
 focus:       LLMs locais, RAG, multi-agent systems, MLOps
 education:   Engenharia de Software — Cruzeiro do Sul (2025–2028)
 languages:   PT-BR (C1) · EN (B2) · ES (A2)
