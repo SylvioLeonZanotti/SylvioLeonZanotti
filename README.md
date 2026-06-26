@@ -17,9 +17,6 @@
 
 <br/>
 
-<!-- ========== SOBRE ========== -->
-## &nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/sparkles.svg?color=%2322d3ee"/><img src="https://api.iconify.design/lucide/sparkles.svg?color=%23000000" width="22"/></picture>&nbsp; Sobre mim
-
 Engenheiro de IA e desenvolvedor back-end com foco em **construir sistemas de IA de ponta a ponta** — da arquitetura ao deploy. Atualmente lidero o desenvolvimento de um ecossistema com **6 agentes de IA especializados** na Areco, com infraestrutura LLM local (vLLM, Ollama) e pipelines RAG sobre **+5.500 documentos indexados**.
 
 Meu trabalho transita entre orquestração de LLMs, engenharia de dados em GCP e APIs de alta performance em FastAPI. Curto resolver problemas reais com IA — automações que economizam horas, agentes que tomam decisão, pipelines que aguentam produção.
